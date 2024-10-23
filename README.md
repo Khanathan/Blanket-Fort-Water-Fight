@@ -16,12 +16,15 @@ Enemy forts are procedurally generated cell by cell. An origin cell is first ran
 
 ## Demo Screenshots:
 ![round 1](https://github.com/user-attachments/assets/a56d613a-0872-468d-b21e-f905d433e08b)
+
 Choosing a cell that resulted in a Miss.
 
 ![round hit](https://github.com/user-attachments/assets/edb5606f-3526-49c4-951e-43ceb68519f7)
+
 Choosing a cell that resulted in a Hit.
 
 ![game loss](https://github.com/user-attachments/assets/eb3885bd-dd3a-487e-8c90-0d51542b6d99)
+
 A match loss. The map is revealed post-match, showing enemy forts and cells which the Player successfully shot at.
 
 ## Folder structure
